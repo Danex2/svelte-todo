@@ -2,10 +2,14 @@
 
 How else are you going to play around with something new?
 
+## Template used
+
+https://github.com/sveltejs/template-webpack
+
 ## Run
 
 `cd svelte-todo`  
-`yarn`
+`yarn`  
 `yarn dev`  
 Navigate to `localhost:8080`
 
